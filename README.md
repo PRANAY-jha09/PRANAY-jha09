@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pranay jha</h1>
+<h1 align="center">Hi 👋, I'm PRANAY JHA </h1>
 <h3 align="center">I am passionate of AI and ML ENGINEER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranay-jha09&label=Profile%20views&color=0e75b6&style=flat" alt="pranay-jha09" /> </p>
