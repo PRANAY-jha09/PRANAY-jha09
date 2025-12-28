@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **PRANAYJHA535@GMAIL.COM**
 
-- ⚡ Fun fact **I THINK I AM FUNNY**
+- ⚡ Fun fact **AI ARE USEFUL  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
