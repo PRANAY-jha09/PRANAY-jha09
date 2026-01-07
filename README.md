@@ -51,6 +51,21 @@ Curiosity drives everything I do, from learning new tech stacks to finding meani
 
 ---
 
+---
+### 🔷 GenAI / LLM  
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=for-the-badge" height="28"/>
+</p>
+---
+
+
+
+---
+### 🔷SOCIAL LINK 
 <div align="center">
 
 <a href="https://github.com/PRANAY-jha09" target="_blank">
