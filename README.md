@@ -51,7 +51,7 @@ Curiosity drives everything I do, from learning new tech stacks to finding meani
 
 ---
 
----
+
 ### 🔷 GenAI / LLM  
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
@@ -60,11 +60,17 @@ Curiosity drives everything I do, from learning new tech stacks to finding meani
   <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge" height="28"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=for-the-badge" height="28"/>
 </p>
----
-
-
 
 ---
+
+### 🔶 Developer Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/>
+</p>
+
+---
+
 ### 🔷SOCIAL LINK 
 <div align="center">
 
@@ -80,7 +86,6 @@ Curiosity drives everything I do, from learning new tech stacks to finding meani
 
 </div>
 
----
 
 ⭐ *“The key question for our future is not whether AI will have consciousness, but whether humans will continue to.”*  
 — **Geoffrey Hinton**, Godfather
